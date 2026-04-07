@@ -1,2 +1,2 @@
-# FAI-miniproject
+# Miniproject
 My first Colab project
